@@ -10,8 +10,7 @@ public class TestServiceImpl {
 
     public static void main(String[] args) {
 
+        System.out.println("世界，你好");
         System.out.println("七夜，你好");
-
     }
-
 }
