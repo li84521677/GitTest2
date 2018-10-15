@@ -6,4 +6,12 @@ package com.example.demo.service.impl;
  * @desc Test的Service实现
  **/
 public class TestServiceImpl {
+
+
+    public static void main(String[] args) {
+
+        System.out.println("七夜，你好");
+
+    }
+
 }
